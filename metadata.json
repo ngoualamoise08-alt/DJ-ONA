@@ -1,0 +1,6 @@
+{
+  "name": "PulseDJ",
+  "description": "Application web interactive DJ : diffusion musicale avec visualiseur réactif, QR code invité, vote de morceaux en direct et Hype Meter en temps réel via Supabase Realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
